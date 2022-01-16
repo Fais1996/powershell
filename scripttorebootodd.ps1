@@ -1,6 +1,6 @@
 ﻿$servers= Get-Content c:\temp\servers.txt
 $number=0
-while ($number -lt 21)
+while ($number -lt 61)
 {
 $server1 = $number 
 $server2 = $number + 1
